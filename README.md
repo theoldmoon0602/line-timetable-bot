@@ -5,10 +5,12 @@
 python3.5 or later
 
 ## usage
+```
 $ pip install -r requirements.txt
-$ export CHANNEL\_ACCESS\_TOKEN='\<your access token\>'
-$ export CHANNEL\_SECRET='\<your secret token\>'
+$ export CHANNEL_ACCESS_TOKEN='<your access token>'
+$ export CHANNEL_SECRET='<your secret token>'
 $ python index.py
+```
 
 ## files
 - bot.py: a library for using line messaging api
